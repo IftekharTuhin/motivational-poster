@@ -11,13 +11,7 @@ This is a simple and elegant motivational poster webpage built using **HTML** an
 
 ## Project Structure
 
-motivational-poster/
-├── assets/
-│ └── image_stay_strong.jpg
-├── index.html
-├── style.css
-└── README.md
-
+<pre> ``` motivational-poster/ ├── assets/ │ └── image_stay_strong.jpg ├── index.html ├── style.css └── README.md ``` </pre>
 
 ---
 
